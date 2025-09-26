@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 I’m Shruti — an absolute learner who loves experimenting with tech. Most of my journey so far has been about breaking things, figuring out why they broke, and fixing them again</p>
+<p align="left">👋 I’m Shruti — an absolute learner who loves experimenting with tech. Most of my journey so far has been about breaking things, figuring out why they broke, and fixing them again.</p>
 
 ###
 
